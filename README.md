@@ -1,24 +1,31 @@
 Hi, I'm Pratibha 👋
 
 🎓 BCA (AI & Data Science) Student at Graphic Era Hill University
+
 💻 Aspiring Data Analyst | Python Developer
+
 📊 Passionate about solving real-world problems using data
 
 🚀 Skills
+
 Python
 C Programming
 Data Analysis
 Basics of Artificial Intelligence
+
 📂 Projects
+
 📊 Student Performance Analysis (Python)
 Analyzed student marks using Pandas
 Calculated total, average, grades, and rankings
 Identified subject-wise toppers and performance insights
 Visualized data using Matplotlib and Seaborn
+
 ✈️ Cabin Baggage Management System (Python)
 Simulated airline baggage handling system
 Applied logic for weight limits and passenger management
 Demonstrates real-world airline workflow
+
 🎮 Quiz Game (C Language)
 Console-based quiz game with scoring system
 Implemented loops, conditions, and user interaction
@@ -44,4 +51,4 @@ Implemented loops, conditions, and user interaction
 - Build more real-world Python projects  
 - Learn AI & Data Science tools deeply  
 - Apply for internships and gain practical experience  
-- Eventually target ₹12–20 LPA tech jobs after graduation
+
